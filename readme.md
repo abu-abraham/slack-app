@@ -19,4 +19,4 @@ The example code is a simple snippet to create an interactive app. Mainly showin
 
 Build the docker image locally, run  `docker build -f Dockerfile -t sports .`
 
-then, to run it :  `docker run -p 8000:8000 sports python main.py`
+then, to run it :  `docker run -p 8000:8000 sports`
